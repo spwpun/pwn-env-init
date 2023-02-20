@@ -1,14 +1,4 @@
-**写于20210617**: 
-
-怎么说呢，因为一些原因今天把这个仓库临时删了，再重建，但是我忽略了一点，这个项目的star是153，fork是49，就这样没了，哈哈
-
-或许这就是人生，看开点吧，塞翁失马焉知非福，应该什么时候都不缺重头再来的勇气
-
-还好谷歌有快照，下面是截图
-
-![image-20210618104843727](img/image-20210618104843727.png)
-
-https://raw.githubusercontent.com/giantbranch/pwn-env-init/master/img/google-cache.png
+**Fork from giantbranch dalao, eidt for myself**
 
 # pwn-env-init
 
@@ -83,12 +73,3 @@ sudo ./pwn_init_py3.sh
 # Attention
 
 I suggest you modify the /etc/apt/sources.list file to speed up the download.
-
-# Reward
-
-paypal: https://www.paypal.me/giantbranch
-
-![自愿打赏][1]
-
-
-[1]: http://pic.giantbranch.cn/pic/1551450728861.jpg
